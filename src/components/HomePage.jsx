@@ -1,6 +1,4 @@
 import React from 'react'
-import mainVideo from '../img/pixelVideo1.mp4'
-import mainImage1 from '../img/pixel1.jpg'
 import mainImage2 from '../img/pixel2.jpg'
 const HomePage = () => {
     return (

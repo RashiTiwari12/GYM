@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <>
 
-            <div className="bg-black text-white p-6 shadow-lg flex justify-between">
+            <div className="bg-black text-white py-10 px-40 shadow-lg flex justify-between">
                 <a className="text-3xl font-bold" href="#section1">
                     <h2>Home</h2>
                 </a>

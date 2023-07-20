@@ -1,0 +1,36 @@
+{
+    "title": "Services",
+    "description": "Welcome to our website! We are a team of passionate individuals...",
+    "servicesAvailable": [
+        {
+            "nameOFService": "Personal Training"
+        },
+        {
+            "nameOFService": "Cardiovascular Equipment"
+        },
+        {
+            "nameOFService": "Relaxation and Recovery Services"
+        },
+        {
+            "nameOFService": " Training Equipment"
+        },
+        {
+            "nameOFService": "Fitness Assessments"
+        },
+        {
+            "nameOFService": "Nutrition Guidance"
+        },
+        {
+            "nameOFService": "Sauna and Steam Rooms"
+        },
+        {
+            "nameOFService": "Sports Facilities"
+        },
+        {
+            "nameOFService": "Nutrition Guidanc"
+        },
+        {
+            "nameOFService": "Group Fitness Classes"
+        }
+    ]
+}
